@@ -1,4 +1,4 @@
-# Free Certifications
+# Free Certifications by YMB-TECH
 
 GitHub Repo stars (https://github.com/YebgaBrayan/Free-Certifications/)
 
