@@ -1,13 +1,11 @@
 
 # Certifications gratuites by YMB-TECH
 
-[![Étoiles du dépôt GitHub](https://img.shields.io/github/stars/cloudcommunity/Free-Certifications?style=social)](https://github.com/cloudcommunity/Free-Certifications)
+Étoiles du dépôt GitHub (https://github.com/cloudcommunity/Free-Certifications)
 
-[![Youtube Suivre](https://yt3.googleusercontent.com/BSvGm8e9ZSI_dlCLWdGW71Dlh84jfc_-g599_CNWZlM0LeahQTJYjEhy0avhcy3WrSyVhQSjGA=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@YMB-TECH1)
+Youtube Suivre (https://www.youtube.com/@YMB-TECH1)
 
-[![Youtube Suivre](https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/91b8aaffb2da0c934fe8eb30e981022d~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=10399&nonce=19052&refresh_token=63eb4b59dea96e57b47ae97d750e5b3a&x-expires=1740996000&x-signature=zG%2F%2BNGe7h1TfbtEiGlMIDxcqFG4%3D&idc=no1a&ps=13740610&shcp=81f88b70&shp=a5d48078&t=4d5b0474)](https://www.tiktok.com/@ymb_tech)
-
-[![linkedin Suivre](https://media.licdn.com/dms/image/v2/D4E35AQFCYmPsK93c8A/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1736881414042?e=1741435200&v=beta&t=ozS8blB5hNvfIZnHvst7LiHVlHHmjk2EWfLt6eZIJVY)](https://www.linkedin.com/in/yebgabrayan/)
+linkedin Suivre (https://www.linkedin.com/in/yebgabrayan/)
 
 Une liste organisée de **Cours gratuits avec certifications** N'oubliez pas de mettre une étoile⭐ce dépôt.
 
