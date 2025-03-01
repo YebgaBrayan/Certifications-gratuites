@@ -1,3 +1,5 @@
+Celui en Francais: https://github.com/YebgaBrayan/Free-Certifications/blob/main/README%20(%20Francais%20)%20.md
+
 # Free Certifications
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/cloudcommunity/Free-Certifications?style=social)](https://github.com/cloudcommunity/Free-Certifications)
