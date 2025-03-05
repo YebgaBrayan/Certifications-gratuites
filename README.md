@@ -1,6 +1,6 @@
 Celui en Francais: https://github.com/YebgaBrayan/Free-Certifications/blob/main/README%20(%20Francais%20)%20.md
 
-# Free Certifications
+# Free Certifications / Certifications gratuites
 
 GitHub Repo stars (https://github.com/YebgaBrayan/Free-Certifications/)
 
