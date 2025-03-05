@@ -1,39 +1,18 @@
 
 # Certifications gratuites by YMB-TECH
 
+Une liste organisée de **Cours gratuits avec certifications** N'oubliez pas de mettre une étoile⭐ce dépôt.
+
+<!-- Les offres en haut du tableau sont limitées dans le temps et expireront bientôt. Alors, dépêchez-vous et profitez-en en premier ! -->
+
+
+🔹 **À propos de nous** 🔹
+
 Étoiles du dépôt GitHub (https://github.com/cloudcommunity/Free-Certifications)
 
 Youtube Suivre (https://www.youtube.com/@YMB-TECH1)
 
 linkedin Suivre (https://www.linkedin.com/in/yebgabrayan/)
-
-Une liste organisée de **Cours gratuits avec certifications** N'oubliez pas de mettre une étoile⭐ce dépôt.
-
-<!-- Les offres en haut du tableau sont limitées dans le temps et expireront bientôt. Alors, dépêchez-vous et profitez-en en premier ! -->
-
-🌐 **Alerte de lancement du site Web** 🌐
-
-Nous sommes ravis d'annoncer que cette collection complète est désormais disponible sous forme de site Web convivial à l'adresse🌐 **[CERTIFICATIONS-LIBREES.COM](https://free-certifications.com/)** 📚!
-
-📬 **Restez à jour avec notre newsletter !** 📬
-
-Nous lançons un**Bulletin d'information sur les certifications gratuites**pour vous faire parvenir les dernières opportunités de certification gratuites directement dans votre boîte de réception ! Notre newsletter sera distribuée entre février et mars 2025 et sera envoyée chaque semaine ou toutes les deux semaines.**[Abonnez-vous maintenant](https://freecertifications.substack.com/)**et ne manquez jamais de nouvelles opportunités d’apprentissage !
-
-📌 **Vous aimez les cadeaux ? Découvrez-les !** 📌
-
-Si vous aimez les cadeaux, n'hésitez pas à explorer nos autres listes organisées de ressources gratuites pour diverses communautés :
-
-- **Organismes à but non lucratif**: [Gratuit pour les organismes à but non lucratif](https://github.com/cloudcommunity/Free-for-Nonprofits)
-- **Projets Open Source**: [Gratuit pour Open Source](https://github.com/cloudcommunity/Free-for-Open-Source)
-- **Start-up**: [Gratuit pour les startups](https://github.com/cloudcommunity/Free-for-Startups)
-- **Éducation (étudiants et écoles)**: [Éducation gratuite](https://github.com/cloudcommunity/Free-for-Education)
-- **Communautés**: [Gratuit pour les communautés](https://github.com/cloudcommunity/Free-for-Communities)
-
-Découvrez-les et profitez de ressources gratuites incroyables !
-
-🔹 **À propos de nous** 🔹
-
-🎉Présenté par le [Réseau d'étude sur le cloud](https://cloudstudy.net/) - une communauté technologique mondiale qui partage des connaissances, des cadeaux et de bonnes vibrations !🎉
 
 ## Table des matières
 
