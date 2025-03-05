@@ -2,6 +2,8 @@ Celui en Francais: https://github.com/YebgaBrayan/Free-Certifications/blob/main/
 
 # Free Certifications / Certifications gratuites
 
+🔹 **About Us** 🔹
+
 GitHub Repo stars (https://github.com/YebgaBrayan/Free-Certifications/)
 
 Youtube Follow (https://www.youtube.com/@YMB-TECH1)
@@ -9,34 +11,6 @@ Youtube Follow (https://www.youtube.com/@YMB-TECH1)
 Youtube Follow (https://www.tiktok.com/@ymb_tech)
 
 linkedin Suivre (https://www.linkedin.com/in/yebgabrayan/)
-
-A curated list of **free courses with certifications**. Don't forget to star ⭐ this repository.
-
-<!-- The offers on top of the table are time-limited and will expire soon. So, hurry up and grab them first! -->
-
-🌐 **Website Launch Alert** 🌐
-
-We are excited to announce that this comprehensive collection is now available as a user-friendly website at 🌐 **[FREE-CERTIFICATIONS.COM](https://free-certifications.com/)** 📚!
-
-📬 **Stay Updated with Our Newsletter!** 📬
-
-We are launching a **Free Certifications Newsletter** to bring the latest free certification opportunities straight to your inbox! Our newsletter will start distribution sometime between February and March 2025 and will be sent either weekly or biweekly. **[Subscribe now](https://freecertifications.substack.com/)** and never miss out on new learning opportunities!
-
-📌 **Love Freebies? Check These Out!** 📌
-
-If you love freebies, be sure to explore our other curated lists of free resources for various communities:
-
-- **Nonprofits**: [Free-for-Nonprofits](https://github.com/cloudcommunity/Free-for-Nonprofits)
-- **Open Source Projects**: [Free-for-Open-Source](https://github.com/cloudcommunity/Free-for-Open-Source)
-- **Startups**: [Free-for-Startups](https://github.com/cloudcommunity/Free-for-Startups)
-- **Education (Students & Schools)**: [Free-for-Education](https://github.com/cloudcommunity/Free-for-Education)
-- **Communities**: [Free-for-Communities](https://github.com/cloudcommunity/Free-for-Communities)
-
-Check them out and take advantage of amazing free resources!
-
-🔹 **About Us** 🔹
-
-🎉 Brought to you by the [Cloud Study Network](https://cloudstudy.net/) - a global tech community that shares knowledge, goodies, and good vibes! 🎉
 
 ## Table of Contents
 
